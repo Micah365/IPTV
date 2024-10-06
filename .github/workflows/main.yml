@@ -2,7 +2,7 @@ name: Daily Update
 
 on:
   schedule:
-    - cron: '10 5/48 * * ?'
+    - cron: '10 5/72 * * ?'
 
   workflow_dispatch:
 
